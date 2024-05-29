@@ -16,9 +16,6 @@ Adorable and functional robot designed to facilitate communication between deaf-
 - 3D Modelling
 
 ## To do list
-- Text to speech
-- Speech to text
-- UI Modelling
 - Actuation Module
 - Image to text
 - Hardware (Fritzing)
