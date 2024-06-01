@@ -1,7 +1,12 @@
-# Gibbly
+<div align="center">
+  <img src="images/logo.png" alt="Gibbly" >
+</div>
 
-## Description
-Adorable and functional robot designed to facilitate communication between deaf-mute individuals and those who can speak. Inspired by the popular appearance of the classic Furby, this device merges modern technology with a charming and friendly design.
+<div align="center">
+  <h1>Gibbly</h1>
+</div>
+
+<h3>Gibbly is an adorable and functional robot designed to facilitate communication between deaf-mute individuals and those who can speak. Inspired by the popular appearance of the classic Furby, this device merges modern technology with a charming and friendly design. </h3>
 
 ## Installation
 
