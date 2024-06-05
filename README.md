@@ -31,6 +31,8 @@ Dependencies:
 - [Matplotlib](https://matplotlib.org/)
 - [Pillow](https://pypi.org/project/pillow/)
 
+- [Servo Datasheet](./Hardware/sg90_datasheet.pdf)
+- [Raspberry Pi](https://www.raspberrypi.com/documentation/)
 - 
 
 ## Project Modules
