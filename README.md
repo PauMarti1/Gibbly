@@ -23,7 +23,7 @@ Dependencies:
 - SpeechRecognition==3.8.1
 - matplotlib==3.7.1
 - Pillow==9.4.0
-- 
+- Adafruit
 
 ## Documentation
 - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
@@ -36,9 +36,9 @@ Dependencies:
 - [Servo Datasheet](./Hardware/sg90_datasheet.pdf)
 - [Raspberry Pi](https://www.raspberrypi.com/documentation/)
 - [Cam](./Hardware/CAMMODV2.pdf)
-- [Mic](X)
-- [Servo Controller](X)
-- [Step-down](X)
+- [Mic](./Hardware/Micro.pdf)
+- [Servo Controller](./Hardware/PCA9685.pdf)
+- [Step-down](./Hardware/Step-down.pdf)
 
 ## Project Modules
 <div align="center">
