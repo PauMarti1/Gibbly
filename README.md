@@ -50,9 +50,21 @@ Dependencies:
 (Foto fritzing)
 
 ## Images
+(Foto robot per fora i per dins)
 
+## 3D
+You can find a folder named 3D in which you can see our 3d modelling of our robot. Also there are some necessary pieces for the head movement.
+[3D](./3D)
+
+## Video
 
 ## References
 - [Text to speech module](https://platform.openai.com/docs/guides/text-to-speech)
 - [Speech to text module](https://platform.openai.com/docs/guides/speech-to-text/quickstart)
 - [Face tracking](https://www.instructables.com/Pan-Tilt-face-tracking-with-the-raspberry-pi/)
+
+## Authors
+- Nerea Garrido
+- Carlos Molina
+- Naim Moltrasio
+- Pau Martí
