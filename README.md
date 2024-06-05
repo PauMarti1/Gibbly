@@ -32,13 +32,9 @@ Dependencies:
 - [Pillow](https://pypi.org/project/pillow/)
 
 ## Project Modules
-- Text to speech
-- Speech to text
-- UI Modelling
-- Actuation Module
-- Image to text
-- Hardware (Fritzing)
-- 3D Modelling
+<div align="center">
+  <img src="images/Flow Chart.png" alt="DiagdeFlux" >
+</div>
 
 ## To do list
 - Actuation Module
