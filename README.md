@@ -11,6 +11,7 @@
 - 1 Servo motor
 - 1 Servo controller
 - 1 Battery
+- 1 Step-down
 
 ## Software Requirements
 Fully developed in [Python](https://www.python.org/)
@@ -22,6 +23,7 @@ Dependencies:
 - SpeechRecognition==3.8.1
 - matplotlib==3.7.1
 - Pillow==9.4.0
+- 
 
 ## Documentation
 - [Flask](https://flask.palletsprojects.com/en/3.0.x/)
@@ -33,7 +35,10 @@ Dependencies:
 
 - [Servo Datasheet](./Hardware/sg90_datasheet.pdf)
 - [Raspberry Pi](https://www.raspberrypi.com/documentation/)
-- 
+- [Cam](./Hardware/CAMMODV2.pdf)
+- [Mic](X)
+- [Servo Controller](X)
+- [Step-down](X)
 
 ## Project Modules
 <div align="center">
