@@ -31,16 +31,12 @@ Dependencies:
 - [Matplotlib](https://matplotlib.org/)
 - [Pillow](https://pypi.org/project/pillow/)
 
+- 
+
 ## Project Modules
 <div align="center">
   <img src="images/Flow Chart.png" alt="DiagdeFlux" >
 </div>
-
-## To do list
-- Actuation Module
-- Image to text
-- Hardware (Fritzing)
-- 3D Modelling
 
 ## References
 - [Text to speech module](https://platform.openai.com/docs/guides/text-to-speech)
