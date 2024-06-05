@@ -32,11 +32,12 @@ Dependencies:
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
 - [Matplotlib](https://matplotlib.org/)
 - [Pillow](https://pypi.org/project/pillow/)
+- [Adafruit](./Hardware/Pantalla.jpg)
 
-- [Servo Datasheet](./Hardware/sg90_datasheet.pdf)
 - [Raspberry Pi](https://www.raspberrypi.com/documentation/)
 - [Cam](./Hardware/CAMMODV2.pdf)
 - [Mic](./Hardware/Micro.pdf)
+- [Servo Datasheet](./Hardware/sg90_datasheet.pdf)
 - [Servo Controller](./Hardware/PCA9685.pdf)
 - [Step-down](./Hardware/Step-down.pdf)
 
@@ -44,6 +45,12 @@ Dependencies:
 <div align="center">
   <img src="images/Flow Chart.png" alt="DiagdeFlux" >
 </div>
+
+## Hardware Architecture
+(Foto fritzing)
+
+## Images
+
 
 ## References
 - [Text to speech module](https://platform.openai.com/docs/guides/text-to-speech)
