@@ -57,6 +57,7 @@ You can find a folder named 3D in which you can see our 3d modelling of our robo
 [3D](./3D)
 
 ## Video
+(Video del funcionament)
 
 ## References
 - [Text to speech module](https://platform.openai.com/docs/guides/text-to-speech)
