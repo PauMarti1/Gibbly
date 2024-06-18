@@ -55,8 +55,10 @@ Dependencies:
 (Foto robot per fora i per dins)
 
 ## 3D
-You can find a folder named 3D in which you can see our 3d modelling of our robot. Also there are some necessary pieces for the head movement.
-[3D](./3D)
+You can find a folder named [3D](./3D) with all the 3D modeling. Here is the main 3D model:
+<div align="center">
+  <img src="images/gibbly_3d.gif" alt="gibbly_3d" >
+</div>
 
 ## Video
 (Video del funcionament)
