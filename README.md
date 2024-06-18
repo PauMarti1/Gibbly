@@ -47,7 +47,9 @@ Dependencies:
 </div>
 
 ## Hardware Architecture
-(Foto fritzing)
+<div align="center">
+  <img src="images/fritzing.png" alt="fritzing" >
+</div>
 
 ## Images
 (Foto robot per fora i per dins)
