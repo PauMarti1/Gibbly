@@ -64,8 +64,8 @@ You can find a folder named [3D](./3D) with all the 3D modeling. Here is the mai
 (Video del funcionament)
 
 ## References
-- [Text to speech module](https://platform.openai.com/docs/guides/text-to-speech)
-- [Speech to text module](https://platform.openai.com/docs/guides/speech-to-text/quickstart)
+- [Text to speech module](https://pypi.org/project/pyttsx3/)
+- [Speech to text module](https://pypi.org/project/SpeechRecognition/)
 - [Face tracking](https://www.instructables.com/Pan-Tilt-face-tracking-with-the-raspberry-pi/)
 
 ## Authors
