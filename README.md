@@ -70,6 +70,6 @@ You can find a folder named [3D](./3D) with all the 3D modeling. Here is the mai
 
 ## Authors
 - Nerea Garrido
+- Pau Martí
 - Carlos Molina
 - Naim Moltrasio
-- Pau Martí
