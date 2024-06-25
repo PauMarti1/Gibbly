@@ -52,7 +52,9 @@ Dependencies:
 </div>
 
 ## Images
-(Foto robot per fora i per dins)
+<div align="center">
+  <img src="images/gibbly_irl.png" alt="gibbly_irl" >
+</div>
 
 ## 3D
 You can find a folder named [3D](./3D) with all the 3D modeling. Here is the main 3D model:
