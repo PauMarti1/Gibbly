@@ -115,9 +115,6 @@ You can find a folder named [3D](./3D) with all the 3D modeling. Here is the mai
   <img src="images/gibbly_3d.gif" alt="gibbly_3d" >
 </div>
 
-## Video
-(Video del funcionament)
-
 ## References
 - [Text to speech module](https://pypi.org/project/pyttsx3/)
 - [Speech to text module](https://pypi.org/project/SpeechRecognition/)
